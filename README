@@ -1,7 +1,7 @@
 # Project
 ## Why
 이 프로젝트는 `.lyx` 확장자를 만드는 프로젝트 입니다.
-`.lyx`는 `Lyrics Extended`의 약자입니다. (원래는 `Lyrics of Efficient and Multifunctional`를 줄여 `.lem`로 하려 했으나, ChatGPT에 답변에 따라 `.lyx`가 더 멋져보여 이걸로 채택했습니다.)
+`.lyx`는 `Lyrics Extended`의 약자입니다. (원래는 `Lyrics of Efficient and Multifunctional`를 줄여 `.lem`로 하려 했으나, ChatGPT의 답변 중 `.lyx`가 더 멋져보여 이걸로 채택했습니다.)
 이 프로젝트는 기능이 많고, 효율적인 가사 및 자막 파일을 만드는 것이 목적입니다.
 
 ## After
